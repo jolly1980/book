@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.bookstore",
+            "nativeLanguage": "de"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "book",
+        "packageName": "com.bookstore",
+        "packageFolder": "com/bookstore",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Yzk1NDIwYmJjZTg4ZDczODNmZDFjNDg0OGI1MWY2YTE4OGQxZmNlZWZkNmU4ZGZmNzEzNGM1YTNhNWZhY2UzYzUxMjY0ZjBlNmM1MjJkMGMxNDY4ODAyMDY1MjBkN2JjNzFlY2E4NWQ3NTE5NzcyZDhkNzZhOWZmOWM2MTRiMTQ=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "de",
+        "languages": ["de", "en"]
+    }
+}
